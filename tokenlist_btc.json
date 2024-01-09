@@ -1,0 +1,79 @@
+{
+  "name": "Trust Wallet: Smart Chain",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "keywords": [
+  "wbnb",
+  "usdt",
+  "xrp",
+  "ada",
+  "avax",
+  "matic",
+  "blast"
+  ],
+  "tokens": [
+    {
+        "name": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+    },
+    {
+        "name": "USDT",
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "symbol": "USDT",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
+    },
+    {
+        "name": "XRP",
+        "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "symbol": "XRP",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe/logo.png"
+    },
+    {
+        "name": "ADA",
+        "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+        "symbol": "ADA",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/logo.png"
+    },
+    {
+        "name": "AVAX",
+        "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/BLASTchain/tokenblast/master/avax.png"
+    },
+    {
+        "name": "MATIC",
+        "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/BLASTchain/tokenblast/master/matic.png"
+    },
+    {
+        "name": "BLAST",
+        "address": "0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0",
+        "symbol": "BLAST",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/BLASTchain/tokenblast/master/blast.png"
+    }
+  ]
+}
+
