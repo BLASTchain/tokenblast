@@ -19,6 +19,14 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
+    },
+    {
+        "name": "BLAST",
+        "address": "0x614D7f40701132E25fe6fc17801Fbd34212d2Eda",
+        "symbol": "BLAST",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://etherscan.io/token/images/safeblastcrypto_32.png"
     }
   ]
 }
